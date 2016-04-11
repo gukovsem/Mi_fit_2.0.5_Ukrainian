@@ -654,7 +654,7 @@ MAC Адреса: %2$s"</string>
     <string name="friend_new_user_guide">Після додавання у друзі браслет повідомлятиме цю людину вібрацією.</string>
     <string name="friend_new_user_guide_ok">ОК</string>
     <string name="friend_new_user_guide_ok_toast">Додано у друзі</string>
-    <string name="friend_set_nick_name_failed">Не удается установить ник</string>
+    <string name="friend_set_nick_name_failed">Не вдається встановити нік</string>
     <string name="friend_unfollow_confirm_body">Ви не можете подивитись дані активності цього користувача</string>
     <string name="friend_unfollow_confirm_no">Відміна</string>
     <string name="friend_unfollow_confirm_title">Забрати з друзів?</string>
