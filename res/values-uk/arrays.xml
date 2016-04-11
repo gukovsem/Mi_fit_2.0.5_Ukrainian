@@ -28,111 +28,223 @@
         <item>Листопад</item>
         <item>Грудень</item>
     </string-array>
+	<string-array name="health_link_title">
+        <item>1. Цілодобовий сервіс</item>
+        <item>2. Корисні поради</item>
+        <item>3. Екстрений виклик транспорту</item>
+        <item>4. Допомога при аваріях</item>
+        <item>5. Допомога в сімейних відносинах</item>
+        <item>6. Виклик швидкої допомоги</item>
+        <item>7. Довідник по лікарнях</item>
+    </string-array>
+    <string-array name="health_link_content">
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+        <item>" "</item>
+    </string-array>
     <string-array name="weeks">
-        <item>Понеділок</item>
-        <item>Вівторок</item>
-        <item>Середа</item>
-        <item>Четвер</item>
-        <item>"П'ятниця"</item>
-        <item>Субота</item>
-        <item>Неділя</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
     </string-array>
     <string-array name="weeks_short">
-        <item>Пон.</item>
-        <item>Вівт.</item>
-        <item>Сер.</item>
-        <item>Четв.</item>
-        <item>"П'ят."</item>
-        <item>Суб.</item>
-        <item>Нед.</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
     </string-array>
     <string-array name="weight_body_figures">
-        <item>Недостатня вага</item>
-        <item>Норма</item>
-        <item>Надмірна вага</item>
-        <item>Надмірна вага</item>
-        <item>Надмірна вага</item>
+        <item>Худорлява</item>
+        <item>Нормальна</item>
+        <item>Надлишкова вага</item>
+        <item>Товста</item>
+        <item>Дуже товста</item>
     </string-array>
     <string-array name="weight_body_figures_for_child">
-        <item>Недостатня вага</item>
-        <item>Норма</item>
-        <item>Надмірна вага</item>
-        <item>Ожиріння</item>
-        <item>Ожиріння</item>
+        <item>Худорлява</item>
+        <item>Нормальна</item>
+        <item>Надлишкова вага</item>
+        <item>Товста</item>
+        <item>Дуже товста</item>
     </string-array>
     <string-array name="weight_unit">
         <item>кг</item>
         <item>цзінь</item>
         <item>фунт</item>
     </string-array>
-    <string-array name="contacts_notify_title">
-        <item>Тільки для викликів від контактів</item>
-        <item>Тільки для повідомлень від контактів</item>
+    <string-array name="hr_sport">
+        <item>Немає активності</item>
+        <item>Легка</item>
+        <item>Аеробіка</item>
+        <item>Важка</item>
     </string-array>
-    <string-array name="fortune">
-        <item>Легко досягти мети сьогодні, але не легко щодня.</item>
-        <item>Не легко досягати мети щодня.</item>
-        <item>Ви встановлюєте рекорди щодня!</item>
-        <item>Насолоджуйтеся самовдосконаленням!</item>
-        <item>Розпочинайте зі скромних цілей.</item>
-        <item>Ми те, що ми робимо.</item>
-        <item>Досягнуто мету дня.</item>
-        <item>Киньте виклик собі сьогодні, щоб стати краще завтра.</item>
-        <item>Просто зробіть це.</item>
-        <item>Продовжуйте практикуватися.</item>
+    <string-array name="mili_help_tips">
+        <item>Переконайтеся, що Mi Band заряджений.</item>
+        <item>"Відв'яжіть Mi Band, потім повторно виконайте сполучення."</item>
+        <item>Якщо Mi Band заряджений, але пристрій його не може виявити, спробуйте перезапустити Bluetooth на пристрої.</item>
+        <item>Якщо перезапуск Bluetooth не вирішив проблему, спробуйте перезавантажити пристрій.</item>
+    </string-array>
+    <string-array name="mili_help_title">
+        <item>Mi Band заряджений?</item>
+        <item>"Чи прив'язаний Mi Band до іншого пристрою?"</item>
+        <item>Перезапустіть Bluetooth</item>
+        <item>Перезавантажте пристрій</item>
+    </string-array>
+    <string-array name="mili_pro_display_items">
+        <item>Час</item>
+        <item>Кроки</item>
+        <item>Біг</item>
+        <item>Температура</item>
+        <item>Пульс</item>
+    </string-array>
+    <string-array name="month_list">
+        <item>Січ.</item>
+        <item>Лют.</item>
+        <item>Бер.</item>
+        <item>Квіт.</item>
+        <item>Трав.</item>
+        <item>Черв.</item>
+        <item>Лип.</item>
+        <item>Серп.</item>
+        <item>Вер.</item>
+        <item>Жовт.</item>
+        <item>Лист.</item>
+        <item>Груд.</item>
+    </string-array>
+    <string-array name="shoes_help_tips">
+        <item>Якщо ви не використовуєте датчик Huami протягом тривалого часу, він переходить в сплячий режим. Спробуйте струснути його.</item>
+        <item>Батарея датчика Huami розрахована на 1 рік. Якщо ви використовуєте кросівки протягом тривалого часу, можливо, батарея розрядилася.</item>
+        <item>"Відв'яжіть кросівки, потім повторно виконайте сполучення."</item>
+        <item>Спробуйте перезапустити Bluetooth, потім повторно виконайте сполучення.</item>
+        <item>Якщо перезапуск Bluetooth не вирішив проблему, спробуйте перезавантажити пристрій.</item>
+        <item>При кожному запуску програми Mi Fit виконується автоматична синхронізація даних.</item>
+    </string-array>
+    <string-array name="shoes_help_title">
+        <item>Струсніть датчик Huami</item>
+        <item>Датчик Huami заряджений?</item>
+        <item>"Чи прив'язаний датчик Huami до іншого пристрою?"</item>
+        <item>Перезапустіть Bluetooth</item>
+        <item>Перезавантажте пристрій</item>
+        <item>Як синхронізувати дані?</item>
+    </string-array>
+    <string-array name="unbind_device_description">
+        <item>Mi Band</item>
+        <item>Mi Scale</item>
+        <item>Кросівки</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_not_chinese">
+        <item>Недолік ваги</item>
+        <item>Вага в нормі</item>
+        <item>Легкий надлишок ваги</item>
+        <item>Середній надлишок ваги</item>
+        <item>Сильний надлишок ваги</item>
+    </string-array>
+    <string-array name="weight_help_tips">
+        <item>Ви можете встати на ваги, щоб перевірити, чи показують вони вагу. Якщо відображається іконка батареї, значить їх потрібно замінити.</item>
+        <item>Якщо ваги не показують вагу, переконайтеся, що батареї встановлені правильно.</item>
+        <item>Якщо ваги заряджені, але пристрій не може виявити їх, спробуйте перезапустити Bluetooth на пристрої.</item>
+        <item>Якщо перезапуск Bluetooth не вирішив проблему, спробуйте перезавантажити пристрій.</item>
+        <item>При кожному запуску програми Mi Fit виконується автоматична синхронізація даних.</item>
+    </string-array>
+    <string-array name="weight_help_title">
+        <item>Чи заряджені ваги?</item>
+        <item>Батареї встановлені правильно?</item>
+        <item>Перезапустіть Bluetooth</item>
+        <item>Перезавантажте пристрій</item>
+        <item>Як синхронізувати дані?</item>
+    </string-array>
+    <string-array name="contacts_notify_title">
+        <item>Лише для викликів від контактів</item>
+        <item>Лише для SMS від контактів</item>
     </string-array>
     <string-array name="phone_notify_tips">
-        <item>Вібрація браслета при вхідному виклику на підключеному пристрої</item>
-        <item>Вібрація браслета при сигналі будильника на підключеному пристрої</item>
-        <item>Вібрація браслета при отриманні SMS на підключеному пристрої</item>
+        <item>Вібрувати браслетом при отриманих вхідних дзвінків на підключеному пристрої</item>
+        <item>Вібрувати браслетом при будильнику на підключеному пристрої</item>
+        <item>Вібрувати браслетом при отриманні вхідного SMS на підключеному пристрої</item>
     </string-array>
     <string-array name="select_days_simple">
-        <item>Один раз</item>
-        <item>Щодня</item>
+        <item>Одноразово</item>
+        <item>Щоденно</item>
         <item>По буднях</item>
         <item>Вибрати дні</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
         <item>відмінне</item>
-        <item>гарне</item>
+        <item>добре</item>
         <item>помірне</item>
-        <item>застереження</item>
+        <item>помірне</item>
         <item>погане</item>
         <item>дуже погане</item>
     </string-array>
     <string-array name="weight_dynamic_list_bmi_tips">
-        <item>Індекс маси тіла: Недостатня вага</item>
-        <item>Індекс маси тіла: Нормальна вага</item>
-        <item>Індекс маси тіла: Надмірна вага</item>
-        <item>Індекс маси тіла: Ожиріння</item>
+        <item>Несотатня вага</item>
+        <item>Вага в нормі</item>
+        <item>Надлишкова вага</item>
+        <item>Надлишкова вага</item>
     </string-array>
     <string-array name="weight_report_result_with_goal_gainweight">
-        <item>Ви ще не досягли мети</item>
-        <item>Ви ще не досягли мети</item>
-        <item>Ви ще не досягли мети</item>
-        <item>Ви досягли мети (%1$s%2$s)!</item>
+        <item>"Мета не досягнута
+Прикладіть більше зусиль"</item>
+        <item>"Мета не досягнута
+Прикладіть більше зусиль"</item>
+        <item>"Мета не досягнута
+Прикладіть більше зусиль"</item>
+        <item>"Вітаємо!
+Ви перевершили свою мету %1$s%2$s"</item>
     </string-array>
     <string-array name="weight_report_result_with_goal_loseweight">
-        <item>Ви ще не досягли мети</item>
-        <item>Ви ще не досягли мети</item>
-        <item>Ви ще не досягли мети</item>
-        <item>Ви досягли мети (%1$s%2$s)!</item>
+        <item>"Мета не досягнута
+Прикладіть більше зусиль"</item>
+        <item>"Мета не досягнута
+Прикладіть більше зусиль"</item>
+        <item>"Мета не досягнута
+Прикладіть більше зусиль"</item>
+        <item>"Вітаємо!
+Ви перевершили свою мету %1$s%2$s"</item>
     </string-array>
     <string-array name="weight_report_result_without_goal">
-        <item>Мета перевищена</item>
-        <item>Мета не досягнута</item>
-        <item>Ви досягли мети!</item>
+        <item>Надлишок ваги</item>
+        <item>Недостатня вага</item>
+        <item>Вага в нормі</item>
     </string-array>
     <string-array name="weight_report_suggestions_boy">
-        <item>Встановіть бажаний результат.</item>
-        <item>Вітаємо! Ви досягли мети.</item>
-        <item>Ваша вага нижча бажаної</item>
-        <item>Ваша вага вища бажаної</item>
+        <item>"Більше займайтеся спортом і вживайте більше білків для росту м'язів."</item>
+        <item>Не змінюйте нинішнім життєвим звичкам, щоб зберегти фігуру.</item>
+        <item>Рекомендується скоротити споживання жирів, зберігаючи споживання білків і більше приділяти уваги спорту.</item>
+        <item>Рекомендується скоротити споживання жирів, зберігаючи споживання білків і більше приділяти уваги спорту.</item>
     </string-array>
     <string-array name="weight_report_suggestions_girl">
-        <item>Встановіть бажаний результат.</item>
-        <item>Вітаємо! Ви досягли мети.</item>
-        <item>Ваша вага нижча бажаної</item>
-        <item>Ваша вага вища бажаної</item>
+        <item>"Більше займайтеся спортом і вживайте більше білку для росту м'язів."</item>
+        <item>Не змінюйте нинішнім життєвим звичкам, щоб зберегти фігуру.</item>
+        <item>Рекомендується скоротити споживання жирів, зберігаючи споживання білків і більше приділяти увагу спорту.</item>
+        <item>Рекомендується скоротити споживання жирів, зберігаючи споживання білків і більше приділяти увагу спорту.</item>
+    </string-array>
+    <string-array name="weight_test_unit">
+        <item>кг</item>
+        <item>цзінь</item>
+        <item>фунт</item>
+    </string-array>
+	<string-array name="fortune">
+        <item>Легко досягти мети, але не легко кожен день.</item>
+        <item>Не легко досягати мети кожен день</item>
+        <item>Ви ставите рекорди кожен день!</item>
+        <item>Насолоджуйтеся самовдосконаленням!</item>
+        <item>Поки ви намагаєтеся ви ніколи не будете невдахою.</item>
+        <item>Ми те, що ми робимо</item>
+        <item>Досягнута мета дня</item>
+        <item>Киньте виклик собі сьогодні, щоб стати краще завтра.</item>
+        <item>Просто зробіть це</item>
+        <item>Продовжуйте практикуватися</item>
     </string-array>
 </resources>
