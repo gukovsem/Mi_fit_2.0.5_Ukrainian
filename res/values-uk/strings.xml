@@ -2468,7 +2468,7 @@ MAC Адреса: %2$s"</string>
     <string name="weight_help_info_1">Переконайтеся, що батарея вагів не розряджена.</string>
     <string name="weight_help_info_2">Вимкніть та увімкніть Bluetooth в налаштуваннях системи</string>
     <string name="weight_help_info_3">"Переконайтеся, що ваги не прив'язані до іншого пристрою поблизу."</string>
-    <string name="weight_help_info_4">акрийте програму Mi Fit, запустіть заново і спробуйте підключитися до ваг.</string>
+    <string name="weight_help_info_4">Закрийте програму Mi Fit, запустіть заново і спробуйте підключитися до ваг.</string>
     <string name="weight_help_title_0">Ваги знаходяться дуже далеко?</string>
     <string name="weight_help_title_1">Перевірте заряд батареї ваг</string>
     <string name="weight_help_title_2">Перезапустіть Bluetooth</string>
