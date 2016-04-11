@@ -2450,7 +2450,7 @@ MAC Адреса: %2$s"</string>
     <string name="weight_delete_title">Видалити цей запис?</string>
     <string name="weight_device_battery_tips">Замініть батареї ваг. Після заміни ваги будуть автоматично перезапущени.</string>
     <string name="weight_device_help">Допомога по вагах</string>
-    <string name="weight_device_list">Значения ваг</string>
+    <string name="weight_device_list">Значення ваг</string>
     <string name="weight_disconnect">Не вдається підключити ваги</string>
     <string name="weight_dynamic_list_visit_tips">Натисніть для вибору користувачів</string>
     <string name="weight_dynamic_title">%1$s %2$s, вага %3$s%4$s</string>
